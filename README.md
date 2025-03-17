@@ -14,5 +14,5 @@ Full documentation can be found at [Docker Offline - Check Containers Statuses](
 **Note:** The application displays the current status of Docker containers when the .exe is launched (statuses are **not** updated automatically in real time). To view the latest status, the .exe must be restarted.
 
 ### Screenshots
-![](./CheckContainerStatusApp/screenshots/demo-0.png)
-![](./CheckContainerStatusApp/screenshots/demo-1.png)
+![](./screenshots/demo-0.png)
+![](./screenshots/demo-1.png)
